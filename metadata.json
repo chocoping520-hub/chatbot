@@ -1,0 +1,6 @@
+{
+  "name": "우리동네 챗봇-김경찰",
+  "description": "우리 아이들을 지키는 인공지능 김경찰 삼촌의 따뜻한 대화식 실시간 어린이 안전 교육 플랫폼",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
